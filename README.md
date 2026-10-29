@@ -50,13 +50,13 @@
   </picture>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api?username=i2nugit">
+<a href="https://github-stats-extended.vercel.app/api?username=chjogit">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=i2nugit&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=chjogit&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=i2nugit&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=chjogit&theme=light_github" />
   </picture>
 </a>
 </div>
