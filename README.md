@@ -40,13 +40,13 @@
 ---
 
 <div align="center">
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=i2nugit&layout=compact&langs_count=8&card_width=320">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=chjogit&layout=compact&langs_count=8&card_width=320">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=i2nugit&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=chjogit&layout=compact&langs_count=8&card_width=320&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=i2nugit&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=chjogit&layout=compact&langs_count=8&card_width=320&theme=light_github" />
   </picture>
 </a>
 
