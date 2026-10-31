@@ -6,8 +6,6 @@
 
 ### Prompt → Pipeline → Product
 
-아이디어를 동작하는 AI 서비스로 만드는 개발자입니다.
-
 </div>
 
 ---
