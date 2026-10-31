@@ -1,8 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=I2NUGIT's%20GITHUB&height=200&fontAlign=70&fontAlignY=40&fontSize=40&color=gradient&fontColor=fefefe&animation=twinkling)
+<div align="center">
+  <img width="840" src="https://capsule-render.vercel.app/api?type=waving&text=I2NUGIT's%20GITHUB&height=200&fontAlign=70&fontAlignY=40&fontSize=40&color=gradient&fontColor=fefefe&animation=twinkling" alt="header" />
+</div>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Prompt+%E2%86%92+Pipeline+%E2%86%92+Product;Idea+to+working+AI+service;LLM+%C2%B7+Agent+%C2%B7+Data+Pipeline" alt="Prompt → Pipeline → Product" />
+
+### Prompt → Pipeline → Product
+
+아이디어를 동작하는 AI 서비스로 만드는 개발자입니다.
 
 </div>
 
@@ -43,6 +49,12 @@
     <img width="420" src="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=i2nutypo&theme=light_github" />
   </picture>
 </a>
+<a href="https://github.com/chjogit/voicetuner">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=voicetuner&theme=dark_github" />
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=voicetuner&theme=light_github" />
+  </picture>
+</a>
 </div>
 
 > - **cardprofile** : 프로필 카드 생성 페이지
@@ -51,6 +63,7 @@
 > - **i2nutypo** : 키네틱 타이포 영상 생성 페이지
 >   - 음원과 가사로 키네틱 타이포그래피 영상을 만드는 웹 편집기 (입문 · 기본 · 숙련 3단계, 브라우저에서 모두 처리)
 >   - `Django` · `TypeScript` · `React` · `Whisper` · `FFmpeg` · `Vercel`
+> - **voicetuner**
 
 ### 🚑 1차 프로젝트
 
@@ -160,4 +173,6 @@ flowchart LR
 
 <br />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<div align="center">
+  <img width="840" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="footer" />
+</div>
