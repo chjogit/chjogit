@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Prompt+%E2%86%92+Pipeline+%E2%86%92+Product;Idea+to+working+AI+service;LLM+%C2%B7+Agent+%C2%B7+Data+Pipeline" alt="Prompt → Pipeline → Product" />
 
-### Prompt → Pipeline → Product
-
 </div>
 
 ---
