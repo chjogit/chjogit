@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Prompt+%E2%86%92+Pipeline+%E2%86%92+Product;Idea+to+working+AI+service;LLM+%C2%B7+Agent+%C2%B7+Data+Pipeline" alt="Prompt → Pipeline → Product" />
 
-### Prompt → Pipeline → Product
-
-아이디어를 동작하는 AI 서비스로 만드는 개발자입니다.
-
 </div>
 
 ---
@@ -49,10 +45,10 @@
     <img width="420" src="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=i2nutypo&theme=light_github" />
   </picture>
 </a>
-<a href="https://github.com/chjogit/voicetuner">
+<a href="https://github.com/chjogit/VOCALTUNER">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=voicetuner&theme=dark_github" />
-    <img width="420" src="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=voicetuner&theme=light_github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=VOCALTUNER&theme=dark_github" />
+    <img width="420" src="https://github-stats-extended.vercel.app/api/pin/?username=chjogit&repo=VOCALTUNER&theme=light_github" />
   </picture>
 </a>
 </div>
@@ -63,7 +59,9 @@
 > - **i2nutypo** : 키네틱 타이포 영상 생성 페이지
 >   - 음원과 가사로 키네틱 타이포그래피 영상을 만드는 웹 편집기 (입문 · 기본 · 숙련 3단계, 브라우저에서 모두 처리)
 >   - `Django` · `TypeScript` · `React` · `Whisper` · `FFmpeg` · `Vercel`
-> - **voicetuner**
+> - **VOCALTUNER** : 보컬 음정·박자 보정 플러그인
+>   - Studio One 등 ARA2 호스트에서 쓰는 VST3 플러그인. 블록·곡선 편집으로 음색을 유지한 채 음정·타이밍을 보정
+>   - `C++` · `JUCE` · `ARA2` · `VST3` · `WORLD Vocoder` · `whisper.cpp` · `CMake` &nbsp;|&nbsp; ⬇️ [**Download**](https://github.com/chjogit/VOCALTUNER/releases/latest)
 
 ### 🚑 1차 프로젝트
 
